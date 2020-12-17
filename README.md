@@ -1,2 +1,2 @@
-# samlingssida-webbutveckling-NTI
+# samlingssida-webbutveckling-nti
 Samlingssida
